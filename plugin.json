@@ -1,0 +1,22 @@
+{
+  "name": "Lyrics Romanization",
+  "safe_name": "lyrics-romanization",
+  "version": "0.1.0",
+  "description": "Displays romanized lyrics in a synced plugin panel",
+  "author": "Audion Community",
+  "type": "js",
+  "entry": "index.js",
+  "permissions": [
+    "player:read",
+    "ui:inject",
+    "storage:local",
+    "network:fetch"
+  ],
+  "category": "lyrics",
+  "tags": [
+    "lyrics",
+    "romanization",
+    "japanese"
+  ],
+  "license": "MIT"
+}
